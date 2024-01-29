@@ -1,0 +1,1 @@
+This is an oerating system develoed by Linus Torvals
